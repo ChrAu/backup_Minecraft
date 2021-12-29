@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "39d45e32-f7eb-4ec3-99cf-64abbbd0c030",
+    "name": "MrMetrics",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2ceb6084-1634-41a6-b9cf-ead7f4c0dd89",
+    "name": "Au_Chr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
