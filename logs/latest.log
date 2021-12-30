@@ -1,101 +1,19 @@
-[12:53:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:53:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:53:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:53:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:53:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:53:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:53:14] [ServerMain/INFO]: Reloading ResourceManager: Default
-[12:53:17] [Worker-Main-12/INFO]: Loaded 7 recipes
-[12:53:18] [Worker-Main-12/INFO]: Loaded 1141 advancements
-[12:53:25] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[12:53:25] [Server thread/INFO]: Loading properties
-[12:53:25] [Server thread/INFO]: Default game type: SURVIVAL
-[12:53:25] [Server thread/INFO]: Generating keypair
-[12:53:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:53:26] [Server thread/INFO]: Using epoll channel type
-[12:53:26] [Server thread/INFO]: Preparing level "world"
-[12:53:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:53:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:53:30] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:53:30] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:53:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:53:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:53:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:53:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:53:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[12:53:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:33] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[12:53:33] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:53:34] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:53:34] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:53:35] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:35] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:53:36] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:36] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:37] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[12:53:38] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[12:53:38] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:53:39] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[12:53:39] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[12:53:40] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:53:40] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[12:53:41] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[12:53:41] [Worker-Main-11/INFO]: Preparing spawn area: 3%
-[12:53:42] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[12:53:42] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[12:53:43] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[12:53:43] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[12:53:44] [Worker-Main-10/INFO]: Preparing spawn area: 4%
-[12:53:44] [Worker-Main-9/INFO]: Preparing spawn area: 5%
-[12:53:45] [Worker-Main-12/INFO]: Preparing spawn area: 6%
-[12:53:45] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[12:53:46] [Worker-Main-11/INFO]: Preparing spawn area: 9%
-[12:53:46] [Worker-Main-12/INFO]: Preparing spawn area: 12%
-[12:53:47] [Worker-Main-12/INFO]: Preparing spawn area: 19%
-[12:53:47] [Worker-Main-10/INFO]: Preparing spawn area: 20%
-[12:53:48] [Worker-Main-8/INFO]: Preparing spawn area: 21%
-[12:53:48] [Worker-Main-9/INFO]: Preparing spawn area: 21%
-[12:53:49] [Worker-Main-9/INFO]: Preparing spawn area: 27%
-[12:53:49] [Worker-Main-10/INFO]: Preparing spawn area: 29%
-[12:53:50] [Worker-Main-10/INFO]: Preparing spawn area: 29%
-[12:53:50] [Worker-Main-8/INFO]: Preparing spawn area: 33%
-[12:53:51] [Worker-Main-10/INFO]: Preparing spawn area: 35%
-[12:53:51] [Worker-Main-11/INFO]: Preparing spawn area: 36%
-[12:53:52] [Worker-Main-13/INFO]: Preparing spawn area: 36%
-[12:53:52] [Worker-Main-13/INFO]: Preparing spawn area: 36%
-[12:53:53] [Worker-Main-12/INFO]: Preparing spawn area: 37%
-[12:53:53] [Worker-Main-8/INFO]: Preparing spawn area: 41%
-[12:53:54] [Worker-Main-14/INFO]: Preparing spawn area: 48%
-[12:53:54] [Worker-Main-8/INFO]: Preparing spawn area: 53%
-[12:53:55] [Worker-Main-8/INFO]: Preparing spawn area: 57%
-[12:53:55] [Worker-Main-10/INFO]: Preparing spawn area: 59%
-[12:53:56] [Worker-Main-10/INFO]: Preparing spawn area: 63%
-[12:53:56] [Worker-Main-8/INFO]: Preparing spawn area: 65%
-[12:53:57] [Worker-Main-11/INFO]: Preparing spawn area: 66%
-[12:53:57] [Worker-Main-14/INFO]: Preparing spawn area: 74%
-[12:53:58] [Worker-Main-8/INFO]: Preparing spawn area: 86%
-[12:53:58] [Worker-Main-9/INFO]: Preparing spawn area: 95%
-[12:54:00] [User Authenticator #1/INFO]: UUID of player Au_Chr is 2ceb6084-1634-41a6-b9cf-ead7f4c0dd89
-[12:54:01] [Server thread/INFO]: Time elapsed: 34231 ms
-[12:54:01] [Server thread/INFO]: Done (34.654s)! For help, type "help"
-[12:54:01] [Server thread/INFO]: Starting remote control listener
-[12:54:01] [Server thread/INFO]: Thread RCON Listener started
-[12:54:01] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[12:54:02] [Server thread/INFO]: Au_Chr[/46.223.206.250:62560] logged in with entity id 116 at (159.14189826669607, 19.0, -130.83342903726896)
-[12:54:02] [Server thread/INFO]: Au_Chr joined the game
-[12:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
-[12:54:28] [Server thread/INFO]: Au_Chr lost connection: Disconnected
-[12:54:28] [Server thread/INFO]: Au_Chr left the game
-[12:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13531ms or 270 ticks behind
-[12:54:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@47b238f1[id=<null>,name=Au_Chr,properties={},legacy=false] (/46.223.206.250:62569) lost connection: Disconnected
-[12:54:48] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@47b238f1[id=<null>,name=Au_Chr,properties={},legacy=false] (/46.223.206.250:62569): Authentication servers are down. Please try again later, sorry!
-[12:54:48] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
-[12:55:06] [User Authenticator #3/INFO]: UUID of player Au_Chr is 2ceb6084-1634-41a6-b9cf-ead7f4c0dd89
-[12:55:06] [Server thread/INFO]: Au_Chr[/46.223.206.250:62577] logged in with entity id 315 at (138.6175271809771, 19.0, -131.81328608284508)
-[12:55:06] [Server thread/INFO]: Au_Chr joined the game
-[12:55:37] [Server thread/INFO]: Au_Chr lost connection: Disconnected
-[12:55:37] [Server thread/INFO]: Au_Chr left the game
+[01:13:13] [User Authenticator #5/INFO]: UUID of player Au_Chr is 2ceb6084-1634-41a6-b9cf-ead7f4c0dd89
+[01:13:13] [Server thread/INFO]: Au_Chr[/46.223.206.250:52970] logged in with entity id 9481 at (156.44738233258386, 19.0, -138.0398127642963)
+[01:13:13] [Server thread/INFO]: Au_Chr joined the game
+[01:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[01:13:18] [Server thread/INFO]: Au_Chr lost connection: Disconnected
+[01:13:18] [Server thread/INFO]: Au_Chr left the game
+[01:14:29] [User Authenticator #6/INFO]: UUID of player Au_Chr is 2ceb6084-1634-41a6-b9cf-ead7f4c0dd89
+[01:14:29] [Server thread/INFO]: Au_Chr[/46.223.206.250:53025] logged in with entity id 9691 at (156.44738233258386, 19.0, -138.0398127642963)
+[01:14:29] [Server thread/INFO]: Au_Chr joined the game
+[01:14:57] [Server thread/INFO]: [Au_Chr: The difficulty has been set to Peaceful]
+[01:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[01:15:37] [Server thread/INFO]: [Au_Chr: Set own game mode to Survival Mode]
+[01:16:05] [Server thread/INFO]: [Au_Chr: Teleported Au_Chr to 156.500000, 19.000000, 138.500000]
+[01:17:41] [Server thread/INFO]: [Au_Chr: Teleported Au_Chr to 156.500000, 19.000000, 138.500000]
+[01:17:51] [Server thread/INFO]: [Au_Chr: Teleported Au_Chr to 156.500000, 119.000000, 138.500000]
+[01:17:53] [Server thread/INFO]: Au_Chr fell from a high place
+[01:18:40] [Server thread/INFO]: [Au_Chr: Teleported Au_Chr to 156.500000, 19.000000, -133.500000]
+[01:18:49] [Server thread/INFO]: Au_Chr lost connection: Disconnected
+[01:18:49] [Server thread/INFO]: Au_Chr left the game
